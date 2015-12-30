@@ -1,7 +1,7 @@
 {
   "name": "js-reactor",
   "version": "1.0.1",
-  "description": "Opinionated JS interactive dev tool",
+  "description": "Opinionated JS dev tool",
   "main": "index.js",
   "repository": {
     "type": "git",
