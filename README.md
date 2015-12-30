@@ -27,3 +27,11 @@ js-reactor
 ```
 
 Then open `http://localhost:8000/hello-world.js` in your web browser.
+
+## Future
+
+This project is a work in progress. Future plans include:
+
+- Hot-module reloading
+- Directory index navigation
+- Other elm-platform tools ([elm-make](https://github.com/elm-lang/elm-make), [elm-repl](https://github.com/elm-lang/elm-repl));
